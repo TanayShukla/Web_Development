@@ -1,0 +1,40 @@
+### CSS Tutorial
+Examples in Each Chapter
+This CSS tutorial contains hundreds of CSS examples.
+
+With our online editor, you can edit the CSS, and click on a button to view the result.
+
+CSS Example
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+Click on the "Try it Yourself" button to see how it works.
+
+CSS Examples
+Learn from over 300 examples! With our editor, you can edit the CSS, and click on a button to view the result.
+
+Go to CSS Examples!
+
+Use the Menu
+We recommend reading this tutorial, in the sequence listed in the menu.
+
+If you have a large screen, the menu will always be present on the left.
+
+If you have a small screen, open the menu by clicking the top menu sign ☰.
+
+CSS Templates
+We have created some responsive w3.CSS templates for you to use.
+
+You are free to modify, save, share, and use them in all your projects.
+
+Free CSS Templates!
