@@ -1,0 +1,8 @@
+HTML contains several elements for defining user input and computer code.
+
+Example
+<code>
+x = 5;
+y = 6;
+z = x + y;
+</code>
