@@ -1,0 +1,62 @@
+HTML Input Types
+This chapter describes the different types for the HTML <input> element.
+
+HTML Input Types
+Here are the different input types you can use in HTML:
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+Tip: The default value of the type attribute is "text".
+
+Input Type Text
+<input type="text"> defines a single-line text input field:
+
+Example
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
+This is how the HTML code above will be displayed in a browser:
+
+First name:
+
+Last name:
+
+Input Type Password
+<input type="password"> defines a password field:
+
+Example
+<form>
+  <label for="username">Username:</label><br>
+  <input type="text" id="username" name="username"><br>
+  <label for="pwd">Password:</label><br>
+  <input type="password" id="pwd" name="pwd">
+</form>
+This is how the HTML code above will be displayed in a browser:
+
+Username:
+
+Password:
+The characters in a password field are masked (shown as asterisks or circles).
