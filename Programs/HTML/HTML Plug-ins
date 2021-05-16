@@ -1,0 +1,48 @@
+HTML Plug-ins
+Plug-ins are computer programs that extend the standard functionality of the browser.
+
+Plug-ins
+Plug-ins were designed to be used for many different purposes:
+
+To run Java applets
+To run Microsoft ActiveX controls
+To display Flash movies
+To display maps
+To scan for viruses
+To verify a bank id
+Warning !
+
+Most browsers no longer support Java Applets and Plug-ins.
+
+ActiveX controls are no longer supported in any browsers.
+
+The support for Shockwave Flash has also been turned off in modern browsers.
+
+The <object> Element
+The <object> element is supported by all browsers.
+
+The <object> element defines an embedded object within an HTML document.
+
+It was designed to embed plug-ins (like Java applets, PDF readers, and Flash Players) in web pages, but can also be used to include HTML in HTML:
+
+Example
+<object width="100%" height="500px" data="snippet.html"></object>
+Or images if you like:
+
+Example
+<object data="audi.jpeg"></object>
+The <embed> Element
+The <embed> element is supported in all major browsers.
+
+The <embed> element also defines an embedded object within an HTML document.
+
+Web browsers have supported the <embed> element for a long time. However, it has not been a part of the HTML specification before HTML5.
+
+Example
+<embed src="audi.jpeg">
+Note that the <embed> element does not have a closing tag. It can not contain alternative text.
+
+The <embed> element can also be used to include HTML in HTML:
+
+Example
+<embed width="100%" height="500px" src="snippet.html">
